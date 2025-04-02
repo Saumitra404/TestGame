@@ -4,4 +4,4 @@ The game is loosely based on the popular "Geometry Dash".
 Link to GitHub pages: (https://saumitra404.github.io/Unity-Game-1/)
 Again, this is just a personal project and is neither polished nor finished.
 
-Instruction: <Space> to Jump and select level, <e> to exit to level select
+Instruction: \<Space\> to Jump and select level, \<e\> to exit to level select
